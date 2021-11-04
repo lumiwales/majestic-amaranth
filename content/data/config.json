@@ -5,7 +5,7 @@
     "palette": "orange",
     "header": {
         "logo_img": "/images/WEBSITE-LOGO-REAL-white.png",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
@@ -32,7 +32,8 @@
                 "url": "/signup",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_img_alt": "Sky Capital Logo"
     },
     "footer": {
         "sections": [
