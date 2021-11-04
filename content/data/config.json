@@ -5,7 +5,7 @@
     "palette": "orange",
     "header": {
         "logo_img": "/images/WEBSITE-LOGO-REAL-white.png",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
