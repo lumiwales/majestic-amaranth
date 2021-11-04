@@ -101,6 +101,8 @@ models:
           type: model
           models:
             - action
+      - name: ''
+        type: string
     labelField: logo_img_alt
   footer:
     type: object
