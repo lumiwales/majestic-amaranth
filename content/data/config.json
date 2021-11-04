@@ -37,7 +37,7 @@
                 "no_follow": false
             },
             {
-                "label": ".",
+                "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
