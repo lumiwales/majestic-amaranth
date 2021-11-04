@@ -32,7 +32,8 @@
                 "style": "primary"
             }
         ],
-        "logo_img_alt": "Sky Capital Logo"
+        "logo_img_alt": "Sky Capital Logo",
+        "logo_img": "/images/WEBSITE-LOGO-REAL-white-0c8e024e.png"
     },
     "footer": {
         "sections": [
