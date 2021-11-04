@@ -47,6 +47,16 @@
                 "no_follow": false
             },
             {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Sign Up For Free",
                 "url": "/signup",
                 "style": "primary"
@@ -55,16 +65,6 @@
                 "label": "Log in",
                 "url": "lorem-ipsum",
                 "style": "secondary",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
-                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "left",
