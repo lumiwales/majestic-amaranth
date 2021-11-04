@@ -37,7 +37,7 @@
                 "no_follow": false
             },
             {
-                "label": "Sign Up",
+                "label": "Sign Up For Free",
                 "url": "/signup",
                 "style": "primary"
             },
